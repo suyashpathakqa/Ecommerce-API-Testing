@@ -116,7 +116,15 @@ It covers:
 * Understanding HTTP status codes
 
 ---
+## ▶️ How to Run This Project
 
+1. Open Postman
+2. Import `collection.json`
+3. Run APIs one by one
+4. Check test results in Postman
+
+
+ ---  
 ## 💼 Author
 
 Suyash Pathak
